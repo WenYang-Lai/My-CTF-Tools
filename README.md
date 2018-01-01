@@ -17,7 +17,7 @@ My toolkit
 
 
 #### Common
-- [IDA Pro](https://www.hex-rays.com/products/ida/)
+- [IDA Pro](https://www.hex-rays.com/products/ida/) - Binary decompiler supports various type of architecture
     - [Dark Theme plugin](https://github.com/zyantific/IDASkins)
 - [angr](http://angr.io/) - Symbolic execution and binary analyzer.
 
