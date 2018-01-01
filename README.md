@@ -19,7 +19,7 @@ My toolkit
 #### Common
 - [IDA Pro](https://www.hex-rays.com/products/ida/)
     - [Dark Theme plugin](https://github.com/zyantific/IDASkins)
-- [angr](http://angr.io/)
+- [angr](http://angr.io/) - Symbolic execution and binary analyzer.
 
 #### PE
 - [Detect it easy](http://ntinfo.biz/index.html) - PE analyzer.
