@@ -20,6 +20,7 @@ My toolkit
 - [IDA Pro](https://www.hex-rays.com/products/ida/) - Binary decompiler supports various type of architecture
     - [Dark Theme plugin](https://github.com/zyantific/IDASkins)
 - [angr](http://angr.io/) - Symbolic execution and binary analyzer.
+- [KLEE](http://klee.github.io/) - A symbolic virtual machine built on top of the LLVM compiler infrastructure 
 
 #### PE
 - [Detect it easy](http://ntinfo.biz/index.html) - PE analyzer.
