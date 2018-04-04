@@ -26,7 +26,7 @@ My toolkit
 - [Detect it easy](http://ntinfo.biz/index.html) - PE analyzer.
 - [ollyICE](http://www.ollydbg.de/) - Debugging tool for PE binary.
 - [lordPE](http://www.woodmann.com/collaborative/tools/index.php/LordPE) - 
-
+- [CheatEngine](http://www.cheatengine.org/) - 
 #### ELF
 - [PEDA](https://github.com/scwuaptx/peda) - Python Exploit Development Assistance for GDB
 
